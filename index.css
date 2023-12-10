@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box !important;
+    font-family: Be Vietnam Pro, sans-serif;
+}
+
+body {
+    background: #F7F7F8;
+}
+
+.my-bg-white-2{
+    background: #F7F7F8;
+}
+
+.my-color-dark {
+    color: #262626;
+}
+
+.my-color-orange {
+    color: #FF9500;
+}
+
+.my-bg-orange {
+    background: #FFF4E5;
+}
+
+.my-btn-2 {
+    border: 1px solid #e5e5e7 !important;
+    background: #FCFCFD !important;
+}
+
+.my-bg-white {
+    background: #FFF;
+}
+
+.my-btn {
+    background: #FF9500;
+    color: #FFF;
+}
+
+.my-card-2 {
+    border: 1px solid #F1F1F3;
+    background: #FCFCFD;
+    gap: 30px 0;
+}
+
+.my-border{
+border: 1px solid #F1F1F3;
+}
+
+.ads-btn {
+    width: calc(100% - 60px);
+    margin: 20px 30px;
+    font-size: 14px
+}
+
+.logo {
+    padding: 5px 7px 7px;
+}
+
+nav li a {
+    padding: 12px 20px !important;
+    font-size: 14px !important;
+}
+
+.active,
+.my-white-2 {
+    background-color: #F1F1F3;
+}
+
+
+
+header .card {
+    margin: 100px 0;
+    width: fit-content;
+}
+
+.my-mt-100 {
+    margin-top: 100px;
+}
+
+.my-my-100 {
+    margin: 100px 0;
+}
+
+.my-play-btn {
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.30);
+    background: rgba(255, 255, 255, 0.20);
+}
+
+.my-card-subtitle {
+    font-size: 19px;
+}
+
+.my-fs-18{
+    font-size: 18px;
+}
+
+.my-badge {
+    background: var(--absolute-white, #FFF);
+    border: 1px solid var(--white-95, #F1F1F3);
+}
+
+.section-3 .card .card-footer {
+    background: #FCFCFD !important;
+}
+
+.plan-title {
+    border-radius: 4px;
+    border: 1px solid var(--orange-90, #FFEACC);
+    background: var(--orange-97, #FFF9F0);
+}
+
+
+#my-clients::-webkit-scrollbar {
+    display: none;
+}
+
+#margin-t-30{
+    margin-top: 40px;
+}
+
