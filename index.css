@@ -97,8 +97,8 @@ header .card {
 }
 
 .my-badge {
-    background: var(--absolute-white, #FFF);
-    border: 1px solid var(--white-95, #F1F1F3);
+    background: #FFF;
+    border: 1px solid #F1F1F3;
 }
 
 .section-3 .card .card-footer {
@@ -107,8 +107,8 @@ header .card {
 
 .plan-title {
     border-radius: 4px;
-    border: 1px solid var(--orange-90, #FFEACC);
-    background: var(--orange-97, #FFF9F0);
+    border: 1px solid #FFEACC;
+    background: #FFF9F0;
 }
 
 
